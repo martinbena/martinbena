@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-I am a front-end developer who is passionate about creating seamless and responsive web experiences with React and Next.js
+I am a front-end developer who is passionate about creating seamless and responsive web experiences with React and Next.js.
 
 *   🌍  I'm based in Czech Republic
 *   ✉️  You can contact me at [Bena.M@seznam.cz](mailto:Bena.M@seznam.cz)
