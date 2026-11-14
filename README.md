@@ -1,33 +1,35 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Martin Beňa
-===================================================================================================================================
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:091529,100:0e7490&text=Martin%20Be%C5%88a&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Full-stack%20Developer%20%C2%B7%20Web%20and%20Mobile&descAlignY=58&descSize=20&section=header" width="100%" alt="Martin Beňa – Full-stack Developer" />
 
-Front-End Developer
--------------------
+<p align="center">
+  <a href="mailto:bena.martinn@gmail.com"><img src="https://img.shields.io/badge/Email-bena.martinn%40gmail.com-0e7490?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mar-ben"><img src="https://img.shields.io/badge/LinkedIn-mar--ben-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Czech%20Republic-091529?style=flat-square" alt="Based in Czech Republic" />
+</p>
 
-I am a front-end developer who is passionate about creating seamless and responsive web experiences with React and Next.js
+## 👋 About me
 
-*   🌍  I'm based in Czech Republic
-*   ✉️  You can contact me at [Bena.M@seznam.cz](mailto:Bena.M@seznam.cz)
-*   🚀  I'm currently working on [Cafe Reservation App](http://sip-of-perfection-martinbena.vercel.app/)
-*   🤝  I'm open to collaborating on projects
+I build web and mobile applications with **React, TypeScript and Laravel** – from API and database design through the user interface to production deployment and App Store / Google Play releases.
 
-### Skills 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-                    </p>
-                    
-### Socials
-                  
-  <p align="left"> <a href="https://www.github.com/martinbena" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mar-ben" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/martinn.bena" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/mar_ben" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a></p>
+Currently **Full-stack Developer at FIOSOFT solutions**, working on production systems for:
 
-### Badges
+- ⚡ **Energy & IoT** – household energy management, telemetry data, device control
+- 📅 **Booking & payments** – multi-level booking system with client app, web and admin
+- 🏢 **Property management** – multi-tenant mobile app used by multiple organizations
+- 🎵 **Events** – official mobile app for a music festival
 
-<b>My GitHub Stats</b>
+Besides development I do **code reviews**, maintain **CI/CD pipelines** and deployments via **Laravel Forge**, and work daily with **Claude Code** – with strict review and testing of everything that ships.
 
-<a href="http://www.github.com/martinbena"><img src="https://github-readme-streak-stats.herokuapp.com/?user=martinbena&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+> 🔒 Most of my commercial work lives in private repositories on Azure DevOps, so the activity on this profile shows only a small part of it.
 
-<a href="https://github.com/martinbena" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinbena&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🛠️ Tech stack
 
-<b>Top Repositories</b>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,laravel,php,mysql,nodejs,docker,git,azure&perline=11" alt="TypeScript, React, Next.js, Tailwind CSS, Laravel, PHP, MySQL, Node.js, Docker, Git, Azure" />
+</p>
 
-<div width="100%" align="center"><a href="https://github.com/martinbena/luminorix" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=martinbena&repo=luminorix&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/martinbena/sip-of-perfection" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=martinbena&repo=sip-of-perfection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<table>
+  <tr><td><b>Front-end</b></td><td>React · TypeScript · Next.js · Inertia.js · Tailwind CSS</td></tr>
+  <tr><td><b>Back-end</b></td><td>Laravel · PHP · Node.js · REST API · MySQL · InfluxDB</td></tr>
+  <tr><td><b>Mobile</b></td><td>React Native · Expo · Capacitor</td></tr>
+  <tr><td><b>DevOps</b></td><td>Git · Docker · CI/CD · Laravel Forge</td></tr>
+</table>
